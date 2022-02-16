@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150.797" height="97.222" viewBox="0 0 150.797 97.222">
+    <g id="Group_8282" data-name="Group 8282" transform="translate(-669.203 -328.778)">
+    <path id="Path_2714" data-name="Path 2714" d="M22.5,0,82.91,4.527,101.3,45.477Z" transform="translate(699.203 350.189)" fill="#e6e6e6" fill-rule="evenodd"/>
+    <g id="Layer_x0020_1" transform="translate(771.424 328.766)">
+      <g id="_1705670607744" transform="translate(-0.002 0.012)">
+        <path id="Path_2709" data-name="Path 2709" d="M15.348,11.277l-.977.61a17.377,17.377,0,0,1-6.593,2.238,10.936,10.936,0,0,1-5.942-.773,2.893,2.893,0,0,1-1.75-3.337C.372,8.672,1.552,7.248,3.505,6.068l6.023-3.7A17.143,17.143,0,0,1,16.121.126,10.225,10.225,0,0,1,22.062.9a2.968,2.968,0,0,1,1.791,3.337c-.285,1.3-1.465,2.727-3.418,3.947l-.977.61-4.11,2.523Zm2.6-7.895a4.416,4.416,0,0,0-2.482-.326,7.441,7.441,0,0,0-2.767.936L6.679,7.7A2.834,2.834,0,0,0,5.255,9.364a1.284,1.284,0,0,0,.733,1.424,4.416,4.416,0,0,0,2.482.326,7.2,7.2,0,0,0,2.767-.936l6.023-3.7a2.834,2.834,0,0,0,1.424-1.669,1.284,1.284,0,0,0-.733-1.424Z" transform="translate(0.002 -0.012)" fill-rule="evenodd" fill="url(#radial-gradient)"/>
+        <path id="Path_2710" data-name="Path 2710" d="M34.964,17.932,6.436,2.02A1.593,1.593,0,0,0,4.931,4.828L33.458,20.74a1.593,1.593,0,0,0,1.506-2.808Z" transform="translate(12.576 5.583)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+        <path id="Path_2711" data-name="Path 2711" d="M9.559,11.687l9.563-5.7A1.6,1.6,0,1,1,20.79,8.716l-9.563,5.7a1.6,1.6,0,1,1-1.669-2.727Z" transform="translate(27.034 17.647)" fill-rule="evenodd" fill="url(#linear-gradient-2)"/>
+        <path id="Path_2712" data-name="Path 2712" d="M7.379,10.138l8.75-5.168A1.6,1.6,0,0,1,17.8,7.7l-8.75,5.168a1.6,1.6,0,1,1-1.669-2.727Z" transform="translate(20.342 14.516)" fill-rule="evenodd" fill="url(#linear-gradient-3)"/>
+      </g>
+    </g>
+    <path id="Path_2713" data-name="Path 2713" d="M52.5,0,0,30.31l78.8,45.5,52.5-30.333Z" transform="translate(669.203 350.189)" fill="#fafcfd" fill-rule="evenodd"/>
+  </g>
+</svg>
